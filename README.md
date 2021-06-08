@@ -22,4 +22,5 @@ Authentication is first based on an API_KEY then a OAuth2 token can be provided 
 * https://stackoverflow.com/questions/41918845/keycloak-integration-in-swagger
 * https://stackoverflow.com/questions/36834020/configure-security-schemas-and-contexts-in-springfox-and-spring-mvc
 * https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.query-methods.query-creation
-* 
+* https://github.com/gregwhitaker/springboot-apikey-example
+
