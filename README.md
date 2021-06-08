@@ -1,6 +1,6 @@
 # Ms Power Automate PetStore
 
-Thank's to Eric Vernie for the help!
+Thank's to Eric Vernié for the help!
 
 The goal of this example is to demonstrate how to add microsoft extension to provide an API well formed to interact with powerautomate custom connector, and be able to publish Actions and Triggers (webhook).
 
