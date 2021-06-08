@@ -1,8 +1,45 @@
+# MacOs Files
+.DS_Store
+.Spotlight-V100
+.Trashes
+._*
+
+# Windows Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Java
+target/
+build
+bin
+
+# Eclipse Files
+.project
+.metadata
+.classpath
+.settings/
+.loadpath
+eclipse_launchers
+
+
+# IntelliJ Files)
+.idea/
+*.iml
+*.iws
+
+
+# Application
+logs/
+/*.log
+
+# Gradle
+.gradle
+build
+test-output
+
 # Compiled class file
 *.class
-
-# Log file
-*.log
 
 # BlueJ files
 *.ctxt
