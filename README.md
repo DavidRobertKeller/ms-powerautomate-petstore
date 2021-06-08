@@ -1,8 +1,16 @@
-# ms-powerautomate-petstore
+# Ms Power Automate PetStore
 
 Thank's to Eric Vernie for the help!
 
-h1. bibliography
+The goal of this example is to demonstrate how to add microsoft extension to provide an API well formed to interact with powerautomate custom connector, and be able to publish Actions and Triggers (webhook).
+
+
+This example use SpringBoot and SpringFox because only Swagger2 is allowed in MS Power Automate API for now.
+Authentication is first based on an API_KEY then a OAuth2 token can be provided (optional).
+
+
+
+# Bibliography
 * https://github.com/EricVernie/CustomConnector
 * https://github.com/Microsoft/PowerPlatformConnectors/tree/master/custom-connectors
 * https://github.com/springfox/springfox/issues/3746
